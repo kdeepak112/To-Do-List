@@ -1,0 +1,10 @@
+.card-todo {
+    width: 90%;
+    border-radius: 5px;
+}
+
+.card-row {
+    background-color: white;
+    padding: 5px;
+    font-size:1.8rem;
+}
